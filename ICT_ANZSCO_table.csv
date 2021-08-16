@@ -1,0 +1,90 @@
+﻿unit_code,unit_name
+1111,Chief Executives and Managing Directors
+1112,General Managers
+1311,Advertising and Sales Managers
+1320,Business Administration Managers nfd
+1322,Finance Managers
+1323,Human Resource Managers
+1324,Policy and Planning Managers
+1332,Engineering Managers
+1335,Production Managers
+1336,Supply and Distribution Managers
+1351,ICT Managers
+1419,Other Accommodation and Hospitality Managers
+1494,Transport Services Managers
+2210,"Accountants, Auditors and Company Secretaries nfd"
+2211,Accountants
+2212,"Auditors, Company Secretaries and Corporate Treasurers"
+2220,"Financial brokers and Dealers, and Investment Advisers nfd"
+2221,Financial Brokers
+2222,Financial Dealers
+2223,Financial Investment Advisers and Managers
+2232,ICT Trainers
+2241,"Actuaries, Mathematicians and Statisticians"
+2242,"Archivists, Curators and Records Managers"
+2243,Economists
+2244,Intelligence and Policy Analysts
+2246,Librarians
+2247,Management and Organisation Analysts
+2249,Other Information and Organisation Professionals
+2251,Advertising and Marketing Professionals
+2252,ICT Sales Professionals
+2320,"Architects, Designers, Planners and Surveyors nfd"
+2321,Architects and Landscape Architects
+2322,Cartographers and Surveyors
+2326,Urban and Regional Planners
+2331,Chemical and Materials Engineers
+2332,Civil Engineering Professionals
+2333,Electrical Engineers
+2334,Electronics Engineers
+2335,"Industrial, Mechanical and Production Engineers"
+2336,Mining Engineers
+2341,Agricultural and Forestry Scientists
+2342,"Chemists, and Food and Wine Scientists"
+2343,Environmental Scientists
+2344,Geologists and Geophysicists
+2345,Life Scientists
+2349,Other Natural and Physical Science Professionals
+2512,Medical Imaging Professionals
+2600,ICT Professionals nfd
+2610,"Business and Systems Analysts, and Programmers nfd"
+2611,ICT Business and Systems Analysts
+2612,Multimedia Specialists and Web Developers
+2613,Software and Applications Programmers
+2621,"Database and Systems Administrators, and ICT Security Specialists"
+2630,ICT Network and Support Professionals nfd
+2631,Computer Network Professionals
+2632,ICT Support and Test Engineers
+2633,Telecommunications Engineering Professionals
+2710,Legal Professionals nfd
+2711,Barristers
+2712,Judicial and Other Legal Professionals
+2713,Solicitors
+3100,"Engineering, ICT and Science Technicians nfd"
+3123,Electrical Engineering Draftspersons and Technicians
+3124,Electronic Engineering Draftspersons and Technicians
+3130,#N/A
+3131,ICT Support Technicians
+3132,Telecommunications Technical Specialists
+3400,Electrotechnology and Telecommunications Trades Workers nfd
+3420,Electronics and Telecommunications Trades Workers nfd
+3423,Electronics Trades Workers
+5100,Office Managers and Program Administrators nfd
+5121,Office Managers
+5122,Practice Managers
+5211,Personal Assistants
+5212,Secretaries
+5321,Keyboard Operators
+5510,Accounting Clerks and Bookkeepers nfd
+5511,Accounting Clerks
+5512,Bookkeepers
+5513,Payroll Clerks
+5521,Bank Workers
+5522,Credit and Loans Officers
+5523,"Insurance, Money Market and Statistical Clerks"
+6111,"Auctioneers, and Stock and Station Agents"
+6112,Insurance Agents
+6212,ICT Sales Assistants
+6399,Other Sales Support Workers
+7123,Engineering Production Systems Workers
+2349,Other Natural and Physical Science Professionals
