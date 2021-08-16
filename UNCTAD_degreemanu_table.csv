@@ -1,0 +1,158 @@
+﻿degree_code,degree_label,SITC_code,SITC_label
+TDRB,Labour-intensive and resource-intensive manufactures,611,Leather
+TDRB,Labour-intensive and resource-intensive manufactures,612,"Manufactures of leather, n.e.s.; saddlery & harness"
+TDRB,Labour-intensive and resource-intensive manufactures,613,"Furskins, tanned or dressed, excluding those of 8483"
+TDRB,Labour-intensive and resource-intensive manufactures,633,Cork manufactures
+TDRB,Labour-intensive and resource-intensive manufactures,634,"Veneers, plywood, and other wood, worked, n.e.s."
+TDRB,Labour-intensive and resource-intensive manufactures,635,"Wood manufacture, n.e.s."
+TDRB,Labour-intensive and resource-intensive manufactures,641,Paper and paperboard
+TDRB,Labour-intensive and resource-intensive manufactures,642,"Paper & paperboard, cut to shape or size, articles"
+TDRB,Labour-intensive and resource-intensive manufactures,651,Textile yarn
+TDRB,Labour-intensive and resource-intensive manufactures,652,"Cotton fabrics, woven"
+TDRB,Labour-intensive and resource-intensive manufactures,653,"Fabrics, woven, of man-made fabrics"
+TDRB,Labour-intensive and resource-intensive manufactures,654,"Other textile fabrics, woven"
+TDRB,Labour-intensive and resource-intensive manufactures,655,"Knitted or crocheted fabrics, n.e.s."
+TDRB,Labour-intensive and resource-intensive manufactures,656,"Tulles, trimmings, lace, ribbons & other small wares"
+TDRB,Labour-intensive and resource-intensive manufactures,657,"Special yarn, special textile fabrics & related"
+TDRB,Labour-intensive and resource-intensive manufactures,658,"Made-up articles, of textile materials, n.e.s."
+TDRB,Labour-intensive and resource-intensive manufactures,659,"Floor coverings, etc."
+TDRB,Labour-intensive and resource-intensive manufactures,661,"Lime, cement, fabrica. constr. mat. (excludingglass, clay)"
+TDRB,Labour-intensive and resource-intensive manufactures,662,"Clay construction, refracto. construction materials"
+TDRB,Labour-intensive and resource-intensive manufactures,663,"Mineral manufactures, n.e.s."
+TDRB,Labour-intensive and resource-intensive manufactures,664,Glass
+TDRB,Labour-intensive and resource-intensive manufactures,665,Glassware
+TDRB,Labour-intensive and resource-intensive manufactures,666,Pottery
+TDRB,Labour-intensive and resource-intensive manufactures,821,Furniture & parts
+TDRB,Labour-intensive and resource-intensive manufactures,831,"Travel goods, handbags & similar containers"
+TDRB,Labour-intensive and resource-intensive manufactures,841,"Men's clothing of textile fabrics, not knitted"
+TDRB,Labour-intensive and resource-intensive manufactures,842,"Women's clothing, of textile fabrics"
+TDRB,Labour-intensive and resource-intensive manufactures,843,"Men's or boy's clothing, of textile, knitted, croche."
+TDRB,Labour-intensive and resource-intensive manufactures,844,"Women's clothing, of textile, knitted or crocheted"
+TDRB,Labour-intensive and resource-intensive manufactures,845,"Articles of apparel, of textile fabrics, n.e.s."
+TDRB,Labour-intensive and resource-intensive manufactures,846,"Clothing accessories, of textile fabrics"
+TDRB,Labour-intensive and resource-intensive manufactures,848,"Articles of apparel, clothing access., excluding textile"
+TDRB,Labour-intensive and resource-intensive manufactures,851,Footwear
+TDRC,Low-skill and technology-intensive manufactures,671,"Pig iron & spiegeleisen, sponge iron, powder & granu"
+TDRC,Low-skill and technology-intensive manufactures,672,"Ingots, primary forms, of iron or steel; semi-finis."
+TDRC,Low-skill and technology-intensive manufactures,673,"Flat-rolled prod., iron, non-alloy steel, not coated"
+TDRC,Low-skill and technology-intensive manufactures,674,"Flat-rolled prod., iron, non-alloy steel, coated, clad"
+TDRC,Low-skill and technology-intensive manufactures,675,Flat-rolled products of alloy steel
+TDRC,Low-skill and technology-intensive manufactures,676,"Iron & steel bars, rods, angles, shapes & sections"
+TDRC,Low-skill and technology-intensive manufactures,677,"Rails & railway track construction mat., iron, steel"
+TDRC,Low-skill and technology-intensive manufactures,678,Wire of iron or steel
+TDRC,Low-skill and technology-intensive manufactures,679,"Tubes, pipes & hollow profiles, fittings, iron, steel"
+TDRC,Low-skill and technology-intensive manufactures,691,"Structures & parts, n.e.s., of iron, steel, aluminium"
+TDRC,Low-skill and technology-intensive manufactures,692,Metal containers for storage or transport
+TDRC,Low-skill and technology-intensive manufactures,693,Wire products (excluding electrical) and fencing grills
+TDRC,Low-skill and technology-intensive manufactures,694,"Nails, screws, nuts, bolts, rivets & the like, of metal"
+TDRC,Low-skill and technology-intensive manufactures,695,Tools for use in the hand or in machine
+TDRC,Low-skill and technology-intensive manufactures,696,Cutlery
+TDRC,Low-skill and technology-intensive manufactures,697,"Household equipment of base metal, n.e.s."
+TDRC,Low-skill and technology-intensive manufactures,699,"Manufactures of base metal, n.e.s."
+TDRC,Low-skill and technology-intensive manufactures,785,Motorcycles & cycles
+TDRC,Low-skill and technology-intensive manufactures,786,Trailers & semi-trailers
+TDRC,Low-skill and technology-intensive manufactures,791,Railway vehicles & associated equipment
+TDRC,Low-skill and technology-intensive manufactures,793,"Ships, boats & floating structures"
+TDRC,Low-skill and technology-intensive manufactures,895,"Office & stationery supplies, n.e.s."
+TDRC,Low-skill and technology-intensive manufactures,899,"Miscellaneous manufactured articles, n.e.s."
+TDRD,Medium-skill and technology-intensive manufactures,775,"Household type equipment, electrical or not, n.e.s."
+TDRD,Medium-skill and technology-intensive manufactures,772,"Apparatus for electrical circuits; board, panels"
+TDRD,Medium-skill and technology-intensive manufactures,621,"Materials of rubber (pastes, plates, sheets, etc.)"
+TDRD,Medium-skill and technology-intensive manufactures,625,"Rubber tyres, tyre treads or flaps & inner tubes"
+TDRD,Medium-skill and technology-intensive manufactures,629,"Articles of rubber, n.e.s."
+TDRD,Medium-skill and technology-intensive manufactures,711,"Vapour generating boilers, auxiliary plant; parts"
+TDRD,Medium-skill and technology-intensive manufactures,712,"Steam turbines & other vapour turbin., parts, n.e.s."
+TDRD,Medium-skill and technology-intensive manufactures,713,"Internal combustion piston engines, parts, n.e.s."
+TDRD,Medium-skill and technology-intensive manufactures,714,"Engines & motors, non-electric; parts, n.e.s."
+TDRD,Medium-skill and technology-intensive manufactures,716,"Rotating electric plant & parts thereof, n.e.s."
+TDRD,Medium-skill and technology-intensive manufactures,718,"Other power generating machinery & parts, n.e.s."
+TDRD,Medium-skill and technology-intensive manufactures,721,Agricultural machinery (excluding tractors) & parts
+TDRD,Medium-skill and technology-intensive manufactures,722,Tractors (excluding those of 71414 & 74415)
+TDRD,Medium-skill and technology-intensive manufactures,723,Civil engineering & contractors' plant & equipment
+TDRD,Medium-skill and technology-intensive manufactures,724,"Textile & leather machinery, & parts thereof, n.e.s."
+TDRD,Medium-skill and technology-intensive manufactures,725,"Paper mill, pulp mill machinery; paper articles man."
+TDRD,Medium-skill and technology-intensive manufactures,726,"Printing & bookbinding machinery, & parts thereof"
+TDRD,Medium-skill and technology-intensive manufactures,727,Food-processing machines (excluding domestic)
+TDRD,Medium-skill and technology-intensive manufactures,728,"Other machinery for particular industries, n.e.s."
+TDRD,Medium-skill and technology-intensive manufactures,731,Machine-tools working by removing material
+TDRD,Medium-skill and technology-intensive manufactures,733,"Mach.-tools for working metal, excluding removing mate."
+TDRD,Medium-skill and technology-intensive manufactures,735,"Parts, n.e.s., & accessories for machines of 731, 733"
+TDRD,Medium-skill and technology-intensive manufactures,737,Metalworking machinery (excludingmachine-tools) & parts
+TDRD,Medium-skill and technology-intensive manufactures,741,"Heating & cooling equipment & parts thereof, n.e.s."
+TDRD,Medium-skill and technology-intensive manufactures,742,Pumps for liquids
+TDRD,Medium-skill and technology-intensive manufactures,743,"Pumps (excluding liquid), gas compressors & fans; centr."
+TDRD,Medium-skill and technology-intensive manufactures,744,"Mechanical handling equipment, & parts, n.e.s."
+TDRD,Medium-skill and technology-intensive manufactures,745,"Other non-electr. machinery, tools & mechan. appar."
+TDRD,Medium-skill and technology-intensive manufactures,746,Ball or roller bearings
+TDRD,Medium-skill and technology-intensive manufactures,747,"Appliances for pipes, boiler shells, tanks, vats, etc."
+TDRD,Medium-skill and technology-intensive manufactures,748,Transmis. shafts
+TDRD,Medium-skill and technology-intensive manufactures,749,"Non-electric parts & accessor. of machinery, n.e.s."
+TDRD,Medium-skill and technology-intensive manufactures,771,"Electric power machinery, and parts thereof"
+TDRD,Medium-skill and technology-intensive manufactures,773,"Equipment for distributing electricity, n.e.s."
+TDRD,Medium-skill and technology-intensive manufactures,774,"Electro-diagnostic appa. for medical sciences, etc."
+TDRD,Medium-skill and technology-intensive manufactures,778,"Electrical machinery & apparatus, n.e.s."
+TDRD,Medium-skill and technology-intensive manufactures,781,Motor vehicles for the transport of persons
+TDRD,Medium-skill and technology-intensive manufactures,782,"Motor vehic. for transport of goods, special purpo."
+TDRD,Medium-skill and technology-intensive manufactures,783,"Road motor vehicles, n.e.s."
+TDRD,Medium-skill and technology-intensive manufactures,784,"Parts & accessories of vehicles of 722, 781, 782, 783"
+TDRD,Medium-skill and technology-intensive manufactures,811,Prefabricated buildings
+TDRD,Medium-skill and technology-intensive manufactures,812,"Sanitary, plumbing, heating fixtures, fittings, n.e.s."
+TDRD,Medium-skill and technology-intensive manufactures,813,"Lighting fixtures & fittings, n.e.s."
+TDRD,Medium-skill and technology-intensive manufactures,893,"Articles, n.e.s., of plastics"
+TDRD,Medium-skill and technology-intensive manufactures,894,"Baby carriages, toys, games & sporting goods"
+TDRE,High-skill and technology-intensive manufactures,751,Office machines
+TDRE,High-skill and technology-intensive manufactures,752,"Automatic data processing machines, n.e.s."
+TDRE,High-skill and technology-intensive manufactures,761,"Television receivers, whether or not combined"
+TDRE,High-skill and technology-intensive manufactures,762,"Radio-broadcast receivers, whether or not combined"
+TDRE,High-skill and technology-intensive manufactures,763,Sound recorders or reproducers
+TDRE,High-skill and technology-intensive manufactures,759,"Parts, accessories for machines of groups 751, 752"
+TDRE,High-skill and technology-intensive manufactures,764,"Telecommunication equipment, n.e.s.; & parts, n.e.s."
+TDRE,High-skill and technology-intensive manufactures,776,Cathode valves & tubes
+TDRE,High-skill and technology-intensive manufactures,511,"Hydrocarbons, n.e.s., & halogenated, nitr. derivative"
+TDRE,High-skill and technology-intensive manufactures,512,"Alcohols, phenols, halogenat., sulfonat., nitrat. der."
+TDRE,High-skill and technology-intensive manufactures,513,"Carboxylic acids, anhydrides, halides, per.; derivati."
+TDRE,High-skill and technology-intensive manufactures,514,Nitrogen-function compounds
+TDRE,High-skill and technology-intensive manufactures,515,"Organo-inorganic, heterocycl. compounds, nucl. acids"
+TDRE,High-skill and technology-intensive manufactures,516,Other organic chemicals
+TDRE,High-skill and technology-intensive manufactures,522,"Inorganic chemical elements, oxides & halogen salts"
+TDRE,High-skill and technology-intensive manufactures,523,"Metallic salts & peroxysalts, of inorganic acids"
+TDRE,High-skill and technology-intensive manufactures,524,Other inorganic chemicals
+TDRE,High-skill and technology-intensive manufactures,525,Radio-actives and associated materials
+TDRE,High-skill and technology-intensive manufactures,531,Synth. organic colouring matter & colouring lakes
+TDRE,High-skill and technology-intensive manufactures,532,"Dyeing & tanning extracts, synth. tanning materials"
+TDRE,High-skill and technology-intensive manufactures,533,"Pigments, paints, varnishes and related materials"
+TDRE,High-skill and technology-intensive manufactures,541,"Medicinal and pharmaceutical products, excluding 542"
+TDRE,High-skill and technology-intensive manufactures,542,Medicaments (incl. veterinary medicaments)
+TDRE,High-skill and technology-intensive manufactures,551,"Essential oils, perfume & flavour materials"
+TDRE,High-skill and technology-intensive manufactures,553,"Perfumery, cosmetics or toilet prepar. (excluding soaps)"
+TDRE,High-skill and technology-intensive manufactures,554,"Soaps, cleansing and polishing preparations"
+TDRE,High-skill and technology-intensive manufactures,562,Fertilizers (other than those of group 272)
+TDRE,High-skill and technology-intensive manufactures,571,"Polymers of ethylene, in primary forms"
+TDRE,High-skill and technology-intensive manufactures,572,"Polymers of styrene, in primary forms"
+TDRE,High-skill and technology-intensive manufactures,573,Polymers of vinyl chloride or halogenated olefins
+TDRE,High-skill and technology-intensive manufactures,574,"Polyethers, epoxide resins; polycarbonat., polyesters"
+TDRE,High-skill and technology-intensive manufactures,575,"Other plastics, in primary forms"
+TDRE,High-skill and technology-intensive manufactures,579,"Waste, parings and scrap, of plastics"
+TDRE,High-skill and technology-intensive manufactures,581,"Tubes, pipes and hoses of plastics"
+TDRE,High-skill and technology-intensive manufactures,582,"Plates, sheets, films, foil & strip, of plastics"
+TDRE,High-skill and technology-intensive manufactures,583,"Monofilaments, of plastics, cross-section > 1mm"
+TDRE,High-skill and technology-intensive manufactures,591,"Insectides &  similar products, for retail sale"
+TDRE,High-skill and technology-intensive manufactures,592,"Starche, wheat gluten; albuminoidal substances; glues"
+TDRE,High-skill and technology-intensive manufactures,593,Explosives and pyrotechnic products
+TDRE,High-skill and technology-intensive manufactures,597,"Prepared addit. for miner. oils; lubricat., de-icing"
+TDRE,High-skill and technology-intensive manufactures,598,"Miscellaneous chemical products, n.e.s."
+TDRE,High-skill and technology-intensive manufactures,792,"Aircraft & associated equipment; spacecraft, etc."
+TDRE,High-skill and technology-intensive manufactures,871,"Optical instruments & apparatus, n.e.s."
+TDRE,High-skill and technology-intensive manufactures,872,"Instruments & appliances, n.e.s., for medical, etc."
+TDRE,High-skill and technology-intensive manufactures,873,"Meters & counters, n.e.s."
+TDRE,High-skill and technology-intensive manufactures,874,"Measuring, analysing & controlling apparatus, n.e.s."
+TDRE,High-skill and technology-intensive manufactures,881,"Photographic apparatus & equipment, n.e.s."
+TDRE,High-skill and technology-intensive manufactures,882,Cinematographic & photographic supplies
+TDRE,High-skill and technology-intensive manufactures,883,"Cinematograph films, exposed & developed"
+TDRE,High-skill and technology-intensive manufactures,884,"Optical goods, n.e.s."
+TDRE,High-skill and technology-intensive manufactures,885,Watches & clocks
+TDRE,High-skill and technology-intensive manufactures,891,Arms & ammunition
+TDRE,High-skill and technology-intensive manufactures,892,Printed matter
+TDRE,High-skill and technology-intensive manufactures,896,"Works of art, collectors' pieces & antiques"
+TDRE,High-skill and technology-intensive manufactures,897,"Jewellery & articles of precious materia., n.e.s."
+TDRE,High-skill and technology-intensive manufactures,898,"Musical instruments, parts; records, tapes & similar"
