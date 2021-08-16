@@ -1,0 +1,109 @@
+﻿unit_code,unit_name,ivi_data
+1325,Research and Development Managers                  ,YES
+1332,Engineering Managers                               ,YES
+1342,Health and Welfare Services Managers               ,YES
+1351,ICT Managers                                       ,YES
+2210,"Accountants, Auditors and Company Secretaries nfd",NO
+2211,Accountants,YES
+2212,"Auditors, Company Secretaries and Corporate Treasurers",YES
+2240,Information and Organisation Professionals nfd,NO
+2241,"Actuaries, Mathematicians and Statisticians        ",YES
+2242,"Archivists, Curators and Records Managers          ",YES
+2243,Economists                                         ,YES
+2244,Intelligence and Policy Analysts                   ,YES
+2245,Land Economists and Valuers                        ,YES
+2246,Librarians                                         ,YES
+2247,Management and Organisation Analysts               ,YES
+2249,Other Information and Organisation Professionals   ,YES
+2252,ICT Sales Professionals                            ,YES
+2254,Technical Sales Representatives                    ,YES
+2311,Air Transport Professionals                        ,YES
+2321,Architects and Landscape Architects                ,YES
+2322,Cartographers and Surveyors                        ,YES
+2326,Urban and Regional Planners                        ,YES
+2330,Engineering Professionals nfd,NO
+2331,Chemical and Materials Engineers                   ,YES
+2332,Civil Engineering Professionals                    ,YES
+2333,Electrical Engineers                               ,YES
+2334,Electronics Engineers                              ,YES
+2335,"Industrial, Mechanical and Production Engineers    ",YES
+2336,Mining Engineers                                   ,YES
+2339,Other Engineering Professionals                    ,YES
+2341,Agricultural and Forestry Scientists               ,YES
+2342,"Chemists, and Food and Wine Scientists             ",YES
+2343,Environmental Scientists                           ,YES
+2344,Geologists and Geophysicists                       ,YES
+2345,Life Scientists                                    ,YES
+2346,Medical Laboratory Scientists                      ,YES
+2347,Veterinarians                                      ,YES
+2349,Other Natural and Physical Science Professionals   ,YES
+2500,Health Professionals nfd,NO
+2510,Health Diagnostic and Promotion Professionals nfd,NO
+2511,Dietitians                                         ,YES
+2512,Medical Imaging Professionals                      ,YES
+2513,Occupational & Environmental Health Professionals  ,YES
+2514,Optometrists and Orthoptists                       ,YES
+2515,Pharmacists                                        ,YES
+2519,Other Health Diagnostic & Promotion Professionals  ,YES
+2520,Health Therapy Professionals nfd,NO
+2521,Chiropractors and Osteopaths                       ,YES
+2523,Dental Practitioners                               ,YES
+2524,Occupational Therapists                            ,YES
+2525,Physiotherapists                                   ,YES
+2526,Podiatrists                                        ,YES
+2527,Speech Professionals and Audiologists              ,YES
+2530,Medical Practitioners nfd,NO
+2531,Generalist Medical Practitioners                   ,YES
+2532,Anaesthetists                                      ,YES
+2533,Internal Medicine Specialists                      ,YES
+2534,Psychiatrists                                      ,YES
+2535,Surgeons                                           ,YES
+2539,Other Medical Practitioners                        ,YES
+2540,Midwifery and Nursing Professionals nfd,NO
+2541,Midwives                                           ,YES
+2542,Nurse Educators and Researchers                    ,YES
+2543,Nurse Managers                                     ,YES
+2544,Registered Nurses                                  ,YES
+2600,ICT Professionals nfd,NO
+2610,"Business and Systems Analysts, and Programmers nfd",NO
+2611,ICT Business and Systems Analysts                  ,YES
+2612,Multimedia Specialists and Web Developers          ,YES
+2613,Software and Applications Programmers              ,YES
+2621,Database & Systems Administrators & ICT Security   ,YES
+2630,ICT Network and Support Professionals nfd,NO
+2631,Computer Network Professionals                     ,YES
+2632,ICT Support and Test Engineers                     ,YES
+2633,Telecommunications Engineering Professionals       ,YES
+2721,Counsellors                                        ,YES
+2723,Psychologists                                      ,YES
+2724,Social Professionals                               ,YES
+3110,"Agricultural, Medical and Science Technicians nfd",NO
+3111,Agricultural Technicians                           ,YES
+3112,Medical Technicians                                ,YES
+3114,Science Technicians                                ,YES
+3122,Civil Engineering Draftspersons and Technicians    ,YES
+3123,"Electrical Engineering Draftspersons, Technicians  ",YES
+3124,"Electronic Engineering Draftspersons, Technicians  ",YES
+3125,"Mechanical Engineering Draftspersons, Technicians  ",YES
+3126,Safety Inspectors                                  ,YES
+3129,Other Building and Engineering Technicians         ,YES
+3130,ICT and Telecommunications Technicians nfd,NO
+3131,ICT Support Technicians                            ,YES
+3132,Telecommunications Technical Specialists           ,YES
+3210,Automotive Electricians and Mechanics nfd,NO
+3211,Automotive Electricians                            ,YES
+3212,Motor Mechanics                                    ,YES
+3230,Mechanical Engineering Trades Workers nfd,NO
+3231,Aircraft Maintenance Engineers                     ,YES
+3232,Metal Fitters and Machinists                       ,YES
+3234,Toolmakers and Engineering Patternmakers           ,YES
+3400,Electrotechnology and Telecommunications Trades Workers nfd,NO
+3411,Electricians                                       ,YES
+3421,Airconditioning and Refrigeration Mechanics        ,YES
+3613,Veterinary Nurses                                  ,YES
+3991,Boat Builders and Shipwrights                      ,YES
+3992,"Chemical, Gas, Petroleum & Power Plant Operators   ",YES
+3999,Other Technicians and Trades Workers               ,YES
+4111,Ambulance Officers and Paramedics                  ,YES
+4112,"Dental Hygienists, Technicians and Therapists      ",YES
+4114,Enrolled and Mothercraft Nurses                    ,YES
